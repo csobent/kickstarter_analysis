@@ -12,9 +12,9 @@ There are a few purposes of this project: one of them is to determine what the m
 ## Analysis and Challenges
 At a glance, the data based on Launch Date shows that many theater campaigns succeeded in their goal if they launched in May. If any campaigns launched after May, you can see there is a steep decline in how many accomplished their goal. There is a slight increase in successful campaigns in October, but afterwards, the decline becomes more prominent dipping to a significant drop in December. 
 
-![Outcomes_vs_Goals_with_text](https://user-images.githubusercontent.com/98721891/155868995-9290ff8c-ede3-4905-b2b7-76723359f31b.png)
-
 When we dive into the data of Outcomes Based on Goals, we are taking more of a microscopic look into which types of campaigns succeed versus the ones that fail, or are canceled. According to the data, campaigns needing only less than $1000 achieved their goals more than any other demographic presented. After that, there is a steady decline in the amount of campaigns succeeding as higher goals are posted.
+
+![Outcomes_vs_Goals_with_text](https://user-images.githubusercontent.com/98721891/155868995-9290ff8c-ede3-4905-b2b7-76723359f31b.png)
 
 There were some challenges encountered while compiling the data. One of which involved creating the pivot table. There was some confusion as to which table the labels go into for the pvivot table. After some experimenting, I managed to create the pivot table and, in turn, created the line graph needed to provide an analysis. Another challenge was learning how to change the years and break them down into months through the pivot table. At first, it seemed a little tricky, but between using Google and trial and error, I also managed to figure out how to group them.
 
