@@ -42,10 +42,10 @@ Other challenges encountered with gathering the correct data was applying the CO
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 One of the conclusions we can draw from the Outcomes based on Launch Date is that the best month to begin a campaign would be May. Viewing the graph, there is a huge spike in successful campaigns and, while viewing the table, there is a total of 111 successful campaigns, which, at a glance, is the most compared to the other months. We can also conclude that December is the worst time to begin campaigns, since the success and failure rate are almost equal to each other. 
 
+![Theater_Outcomes_vs_Launch.png](https://github.com/csobent/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+
 - What can you conclude about the Outcomes based on Goals?
 Based on goals, one conclusion we can draw is that most campaigns not needing as much funding will usually succeed in reaching their goals. The exceptions are the 35000 to 34999 and 40000 to 44999 categories, but they don't have as many projects within these categories. Another conclusion we can draw is that projects needing more funding are most likely going to fail. As mentioned earlier, if we follow the data on the graph, there is that negative correlation between success and failure; as the successful campaigns dwindle, the failed campaigns climbs.
-
-![Theater_Outcomes_vs_Launch.png](https://github.com/csobent/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 - What are some limitations of this dataset?
 Some of the limitations include not being able to see the success of theater/play campaigns on a year-by-year basis. Expanding from only a cumulative outlook to a more sectionalized view, i.e. breaking it down monthly, could improve our analysis and we can probably analyze the reasons behind why campaigns suceed more in one month versus another month. I think another limitation is not accounting for outliers.
