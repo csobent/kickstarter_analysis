@@ -28,6 +28,8 @@ Let's dissect more of the data and analyze it further based on what was stated e
 ### Analysis of Outcomes Based on Goals
 If we take a cursory look at the data, we can see most projects which required $1000-4999 had a 73% success rate. Looking at campaigns ranging from the 1000 to 4999 category to the 25000 to 29999 category, they show a decrease in the amount of successful campaigns, whereas the amount of failed campaigns increase; this shows us a negative correlation between the two. Once we look at the campaigns in the 30000 to 34999 category, we can see that there is a slight increase in success, which eventually leads a to jump in success from 27% to 67% before plateuing. After the plateau, there is a sharp decrease in success which shows a 0% success rate for campaigns in the 45000 to 49999 category. However, if we look at the table, there is only one campaign being ran from this category giving it a 50% chance to either succeed or fail.
 
+![Outcomes_vs_Goals.png](https://github.com/csobent/kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+
 Also, as we take a look at the table, with the exception of the less than 1000 campaigns, there is a decline in how many campaigns are launched. If look at the total projects, you can clearly see starting with the 1000 to 4999 category, it has a total of 534 projects. From there, the total amount of projects drops significantly to 169 to 72 to 24 and so on. 
 
 In comparison to the Outcomes Based on Launch Date, this set of data does not show any canceled campaigns; either they succeeded or failed. However, in both scenarios, it appears as if the canceled campaigns do not affect the data significantly.
